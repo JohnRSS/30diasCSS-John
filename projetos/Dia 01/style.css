@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    background: #393A3C;
+} 
+
+.text {
+    font-size: 60px;
+    font-weight: 900;
+    cursor: pointer;
+    color: #fff;
+}
+ .box {
+     width: 300px;
+     height: 100px;
+     background-color: #D22C2C;
+     margin: 60px auto;
+     cursor: pointer;
+ }
+
+ .text:hover {
+    animation: flipV 1.5s linear;
+    color: cyan;
+ }
+ .box:hover {
+    animation: flipV 1.5s linear;
+    background-color: #6E1B09;
+ }
+
+ @keyframes flipV {
+     50% {
+         transform: rotateX(180deg);
+     }
+     to {
+         transform: rotateX(360deg);
+     }
+ }
