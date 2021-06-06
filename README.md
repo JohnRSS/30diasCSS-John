@@ -15,11 +15,13 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 - Realizar um projeto por dia
 - O projeto deve ser concluído até 23:59
 
+#### Youtube Referencias dos desafios
 
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - [Dark Code](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
+- [Dia 01 - Flip CSS Animations](https://github.com/MilenaCarecho/30diasDeCSS#id01)
 
+# [Desafio dia 01 - Animação de Flip]()
 
-
-
-
+<img src="C:\Users\jonat\Downloads\day01.gif" alt="Flip animation" style="zoom:150%;" />
 
