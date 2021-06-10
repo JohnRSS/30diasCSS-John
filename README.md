@@ -33,5 +33,5 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 
 # [Desafio dia 03 - CSS Loading Animation] <a name="id03"></a> 
 
-![day03](https://user-images.githubusercontent.com/71514703/121537408-46094c00-c9da-11eb-95b8-8061cfb0497e.gif){ width=50% }
+![day03](https://user-images.githubusercontent.com/71514703/121537408-46094c00-c9da-11eb-95b8-8061cfb0497e.gif)
 
