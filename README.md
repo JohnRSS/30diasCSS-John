@@ -21,6 +21,7 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 
 - [Dia 01 - Flip CSS Animations](https://github.com/JohnRSS/30diasCSS-John#id01)
 - [Dia 02 - Animation Social Media](https://github.com/JohnRSS/30diasCSS-John#id02)
+- [Dia 03 - CSS Loading Animation](https://github.com/JohnRSS/30diasCSS-John#id03)
 
 # [Desafio dia 01 - Animação de Flip] <a name="id01"></a>
 
@@ -30,6 +31,6 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 
 ![day02](https://user-images.githubusercontent.com/71514703/120938642-2cba8400-c6ea-11eb-99b9-29f0594e02b3.gif)
 
+# [Desafio dia 03 - CSS Loading Animation] <a name="id03"></a> 
 
-
-
+<img src="C:\Users\jonat\Downloads\day03.gif" alt="day03" style="zoom: 50%;" />
